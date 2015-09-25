@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<library path="lib/lib_rmc_differential_steering">
+  <class type="robot_movement_config::DifferentialSteering" base_class_type="robot_movement_config::PluginInterface">
+    <description>
+      Differential steering plugin for the robot_movement_config package.
+    </description>
+  </class>
+</library>
